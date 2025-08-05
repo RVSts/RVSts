@@ -67,6 +67,6 @@
 
 ###
 
-<p align="left">> “Context is to data what water is to a dolphin.”</p>
+> “Context is to data what water is to a dolphin.”
 
 ###
