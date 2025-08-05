@@ -22,7 +22,12 @@
 
 ###
 
-- 🎓 4th-semester Computer Science student at UFBA, specializing in **Data Analysis**.  <br>- 🔍 Hands-on experience with personal projects involving data collection, cleaning, and visualization.  <br>- 🛠️ Skilled in **Databases** (PostgreSQL, SQL), **Python** (Pandas, NumPy, Matplotlib, Seaborn), **R**, and **Power BI**.  <br>- 🚀 Member of the Data Analysis team at TITAN – UFBA Junior Enterprise: from internship to current role, I integrate multi-source data and deliver strategic reports.  <br>- 🤖 Recently diving deeper into **Data Science** & **Machine Learning**, fueled by my passion for Statistics and Linear Algebra.  <br>- 🌟 Known for strong analytical thinking, adaptability, and organization—always ready to tackle new challenges.
+- 🎓 4th-semester Computer Science student at UFBA, specializing in **Data Analysis**.
+- 🔍 Hands-on experience with personal projects involving data collection, cleaning, and visualization.
+- 🛠️ Skilled in **Databases** (PostgreSQL, SQL), **Python** (Pandas, NumPy, Matplotlib, Seaborn), **R**, and **Power BI**.
+- 🚀 Member of the Data Analysis team at TITAN – UFBA Junior Enterprise: from internship to current role, I integrate multi-source data and deliver strategic reports.
+- 🤖 Recently diving deeper into **Data Science** & **Machine Learning**, fueled by my passion for Statistics and Linear Algebra.
+- 🌟 Known for strong analytical thinking, adaptability, and organization—always ready to tackle new challenges.
 
 ###
 
